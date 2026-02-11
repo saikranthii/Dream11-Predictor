@@ -1,0 +1,1025 @@
+match_id,season,match_name,venue,home_team,away_team
+1359475,2023,GT v CSK,"Narendra Modi Stadium, Motera, Ahmedabad",GT,CSK
+1359476,2023,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+1359477,2023,LSG v DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,DC
+1359478,2023,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+1359479,2023,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+1359480,2023,CSK v LSG,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,LSG
+1359481,2023,DC v GT,"Arun Jaitley Stadium, Delhi",DC,GT
+1359482,2023,RR v PBKS,"Barsapara Cricket Stadium, Guwahati",RR,PBKS
+1359483,2023,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+1359484,2023,LSG v SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,SRH
+1359485,2023,RR v DC,"Barsapara Cricket Stadium, Guwahati",RR,DC
+1359486,2023,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+1359487,2023,GT v KKR,"Narendra Modi Stadium, Motera, Ahmedabad",GT,KKR
+1359488,2023,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+1359489,2023,RCB v LSG,"M.Chinnaswamy Stadium, Bengaluru",RCB,LSG
+1359490,2023,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+1359491,2023,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+1359492,2023,PBKS v GT,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,GT
+1359493,2023,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+1359494,2023,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+1359495,2023,LSG v PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS
+1359496,2023,MI v KKR,"Wankhede Stadium, Mumbai",KKR,MI
+1359497,2023,GT v RR,"Narendra Modi Stadium, Motera, Ahmedabad",GT,RR
+1359498,2023,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+1359499,2023,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+1359500,2023,RR v LSG,"Sawai Mansingh Stadium, Jaipur",RR,LSG
+1359501,2023,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+1359502,2023,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+1359503,2023,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+1359504,2023,LSG v GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,GT
+1359505,2023,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+1359506,2023,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+1359507,2023,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+1359508,2023,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+1359509,2023,GT v MI,"Narendra Modi Stadium, Motera, Ahmedabad",GT,MI
+1359510,2023,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+1359511,2023,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+1359512,2023,PBKS v LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,LSG
+1359513,2023,KKR v GT,"Eden Gardens, Kolkata",KKR,GT
+1359514,2023,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+1359515,2023,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+1359516,2023,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+1359517,2023,LSG v RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,RCB
+1359518,2023,GT v DC,"Narendra Modi Stadium, Motera, Ahmedabad",GT,DC
+1359519,2023,LSG v CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,CSK
+1359520,2023,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+1359521,2023,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+1359522,2023,RR v GT,"Sawai Mansingh Stadium, Jaipur",RR,GT
+1359523,2023,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+1359524,2023,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+1359525,2023,GT v LSG,"Narendra Modi Stadium, Motera, Ahmedabad",GT,LSG
+1359526,2023,RR v SRH,"Sawai Mansingh Stadium, Jaipur",RR,SRH
+1359527,2023,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+1359528,2023,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+1359529,2023,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+1359530,2023,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+1359531,2023,MI v GT,"Wankhede Stadium, Mumbai",MI,GT
+1359532,2023,SRH v LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,LSG
+1359533,2023,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+1359534,2023,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+1359535,2023,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+1359536,2023,GT v SRH,"Narendra Modi Stadium, Motera, Ahmedabad",GT,SRH
+1359537,2023,LSG v MI,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,MI
+1359538,2023,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",DC,PBKS
+1359539,2023,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+1359540,2023,PBKS v RR,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,RR
+1359541,2023,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+1359542,2023,KKR v LSG,"Eden Gardens, Kolkata",KKR,LSG
+1359543,2023,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+1359544,2023,RCB v GT,"M.Chinnaswamy Stadium, Bengaluru",RCB,GT
+1370350,2023,CSK v GT,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,GT
+1370351,2023,LSG v MI,"MA Chidambaram Stadium, Chepauk, Chennai",LSG,MI
+1370352,2023,GT v MI,"Narendra Modi Stadium, Motera, Ahmedabad",GT,MI
+1370353,2023,GT v CSK,"Narendra Modi Stadium, Motera, Ahmedabad",GT,CSK
+1304047,2022,CSK v KKR,"Wankhede Stadium, Mumbai",CSK,KKR
+1304048,2022,DC v MI,"Brabourne Stadium, Mumbai",DC,MI
+1304049,2022,PBKS v RCB,"Dr DY Patil Sports Academy, Navi Mumbai",PBKS,RCB
+1304050,2022,GT v LSG,"Wankhede Stadium, Mumbai",GT,LSG
+1304051,2022,SRH v RR,"Maharashtra Cricket Association Stadium, Pune",SRH,RR
+1304052,2022,RCB v KKR,"Dr DY Patil Sports Academy, Navi Mumbai",RCB,KKR
+1304053,2022,LSG v CSK,"Brabourne Stadium, Mumbai",LSG,CSK
+1304054,2022,KKR v PBKS,"Wankhede Stadium, Mumbai",KKR,PBKS
+1304055,2022,MI v RR,"Dr DY Patil Sports Academy, Navi Mumbai",MI,RR
+1304056,2022,GT v DC,"Maharashtra Cricket Association Stadium, Pune",GT,DC
+1304057,2022,CSK v PBKS,"Brabourne Stadium, Mumbai",CSK,PBKS
+1304058,2022,SRH v LSG,"Dr DY Patil Sports Academy, Navi Mumbai",SRH,LSG
+1304059,2022,RR v RCB,"Wankhede Stadium, Mumbai",RR,RCB
+1304060,2022,KKR v MI,"Maharashtra Cricket Association Stadium, Pune",KKR,MI
+1304061,2022,LSG v DC,"Dr DY Patil Sports Academy, Navi Mumbai",LSG,DC
+1304062,2022,PBKS v GT,"Brabourne Stadium, Mumbai",PBKS,GT
+1304063,2022,CSK v SRH,"Dr DY Patil Sports Academy, Navi Mumbai",CSK,SRH
+1304064,2022,RCB v MI,"Maharashtra Cricket Association Stadium, Pune",RCB,MI
+1304065,2022,KKR v DC,"Brabourne Stadium, Mumbai",KKR,DC
+1304066,2022,RR v LSG,"Wankhede Stadium, Mumbai",RR,LSG
+1304067,2022,SRH v GT,"Dr DY Patil Sports Academy, Navi Mumbai",SRH,GT
+1304068,2022,CSK v RCB,"Dr DY Patil Sports Academy, Navi Mumbai",CSK,RCB
+1304069,2022,MI v PBKS,"Maharashtra Cricket Association Stadium, Pune",MI,PBKS
+1304070,2022,RR v GT,"Dr DY Patil Sports Academy, Navi Mumbai",RR,GT
+1304071,2022,SRH v KKR,"Brabourne Stadium, Mumbai",SRH,KKR
+1304072,2022,MI v LSG,"Brabourne Stadium, Mumbai",MI,LSG
+1304073,2022,DC v RCB,"Wankhede Stadium, Mumbai",DC,RCB
+1304074,2022,PBKS v SRH,"Dr DY Patil Sports Academy, Navi Mumbai",PBKS,SRH
+1304075,2022,GT v CSK,"Maharashtra Cricket Association Stadium, Pune",GT,CSK
+1304076,2022,RR v KKR,"Brabourne Stadium, Mumbai",RR,KKR
+1304077,2022,LSG v RCB,"Dr DY Patil Sports Academy, Navi Mumbai",LSG,RCB
+1304078,2022,DC v PBKS,"Brabourne Stadium, Mumbai",DC,PBKS
+1304079,2022,MI v CSK,"Dr DY Patil Sports Academy, Navi Mumbai",MI,CSK
+1304080,2022,DC v RR,"Wankhede Stadium, Mumbai",DC,RR
+1304081,2022,KKR v GT,"Dr DY Patil Sports Academy, Navi Mumbai",KKR,GT
+1304082,2022,RCB v SRH,"Brabourne Stadium, Mumbai",RCB,SRH
+1304083,2022,LSG v MI,"Wankhede Stadium, Mumbai",LSG,MI
+1304084,2022,PBKS v CSK,"Wankhede Stadium, Mumbai",PBKS,CSK
+1304085,2022,RCB v RR,"Maharashtra Cricket Association Stadium, Pune",RCB,RR
+1304086,2022,GT v SRH,"Wankhede Stadium, Mumbai",GT,SRH
+1304087,2022,DC v KKR,"Wankhede Stadium, Mumbai",DC,KKR
+1304088,2022,PBKS v LSG,"Maharashtra Cricket Association Stadium, Pune",PBKS,LSG
+1304089,2022,GT v RCB,"Brabourne Stadium, Mumbai",GT,RCB
+1304090,2022,RR v MI,"Dr DY Patil Sports Academy, Navi Mumbai",RR,MI
+1304091,2022,DC v LSG,"Wankhede Stadium, Mumbai",DC,LSG
+1304092,2022,SRH v CSK,"Maharashtra Cricket Association Stadium, Pune",SRH,CSK
+1304093,2022,KKR v RR,"Wankhede Stadium, Mumbai",KKR,RR
+1304094,2022,GT v PBKS,"Dr DY Patil Sports Academy, Navi Mumbai",GT,PBKS
+1304095,2022,RCB v CSK,"Maharashtra Cricket Association Stadium, Pune",RCB,CSK
+1304096,2022,DC v SRH,"Brabourne Stadium, Mumbai",DC,SRH
+1304097,2022,GT v MI,"Brabourne Stadium, Mumbai",GT,MI
+1304098,2022,PBKS v RR,"Wankhede Stadium, Mumbai",PBKS,RR
+1304099,2022,LSG v KKR,"Maharashtra Cricket Association Stadium, Pune",LSG,KKR
+1304100,2022,SRH v RCB,"Wankhede Stadium, Mumbai",SRH,RCB
+1304101,2022,CSK v DC,"Dr DY Patil Sports Academy, Navi Mumbai",CSK,DC
+1304102,2022,MI v KKR,"Dr DY Patil Sports Academy, Navi Mumbai",MI,KKR
+1304103,2022,LSG v GT,"Maharashtra Cricket Association Stadium, Pune",LSG,GT
+1304104,2022,RR v DC,"Dr DY Patil Sports Academy, Navi Mumbai",RR,DC
+1304105,2022,CSK v MI,"Wankhede Stadium, Mumbai",CSK,MI
+1304106,2022,RCB v PBKS,"Brabourne Stadium, Mumbai",RCB,PBKS
+1304107,2022,KKR v SRH,"Maharashtra Cricket Association Stadium, Pune",KKR,SRH
+1304108,2022,CSK v GT,"Wankhede Stadium, Mumbai",CSK,GT
+1304109,2022,LSG v RR,"Brabourne Stadium, Mumbai",LSG,RR
+1304110,2022,PBKS v DC,"Dr DY Patil Sports Academy, Navi Mumbai",PBKS,DC
+1304111,2022,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+1304112,2022,KKR v LSG,"Dr DY Patil Sports Academy, Navi Mumbai",KKR,LSG
+1304113,2022,RCB v GT,"Wankhede Stadium, Mumbai",RCB,GT
+1304114,2022,RR v CSK,"Brabourne Stadium, Mumbai",RR,CSK
+1304115,2022,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+1304116,2022,SRH v PBKS,"Wankhede Stadium, Mumbai",SRH,PBKS
+1312197,2022,GT v RR,"Eden Gardens, Kolkata",GT,RR
+1312198,2022,LSG v RCB,"Eden Gardens, Kolkata",LSG,RCB
+1312199,2022,RR v RCB,"Narendra Modi Stadium, Motera, Ahmedabad",RR,RCB
+1312200,2022,GT v RR,"Narendra Modi Stadium, Motera, Ahmedabad",GT,RR
+1254117,2021,CSK v KKR,Dubai International Cricket Stadium,CSK,KKR
+1254116,2021,DC v KKR,Sharjah Cricket Stadium,DC,KKR
+1254115,2021,RCB v KKR,Sharjah Cricket Stadium,RCB,KKR
+1254114,2021,DC v CSK,Dubai International Cricket Stadium,DC,CSK
+1254101,2021,RCB v DC,Dubai International Cricket Stadium,RCB,DC
+1254088,2021,SRH v MI,"Sheikh Zayed Stadium, Abu Dhabi",SRH,MI
+1254106,2021,KKR v RR,Sharjah Cricket Stadium,KKR,RR
+1254094,2021,CSK v PBKS,Dubai International Cricket Stadium,CSK,PBKS
+1254095,2021,RCB v SRH,"Sheikh Zayed Stadium, Abu Dhabi",RCB,SRH
+1254093,2021,RR v MI,Sharjah Cricket Stadium,RR,MI
+1254110,2021,DC v CSK,Dubai International Cricket Stadium,DC,CSK
+1254109,2021,KKR v SRH,Dubai International Cricket Stadium,KKR,SRH
+1254090,2021,RCB v PBKS,Sharjah Cricket Stadium,RCB,PBKS
+1254089,2021,RR v CSK,"Sheikh Zayed Stadium, Abu Dhabi",RR,CSK
+1254112,2021,MI v DC,Sharjah Cricket Stadium,MI,DC
+1254102,2021,KKR v PBKS,Dubai International Cricket Stadium,KKR,PBKS
+1254091,2021,SRH v CSK,Sharjah Cricket Stadium,SRH,CSK
+1254103,2021,RR v RCB,Dubai International Cricket Stadium,RR,RCB
+1254099,2021,MI v PBKS,"Sheikh Zayed Stadium, Abu Dhabi",MI,PBKS
+1254092,2021,KKR v DC,Sharjah Cricket Stadium,KKR,DC
+1254100,2021,SRH v RR,Dubai International Cricket Stadium,SRH,RR
+1254108,2021,RCB v MI,Dubai International Cricket Stadium,RCB,MI
+1254098,2021,CSK v KKR,"Sheikh Zayed Stadium, Abu Dhabi",CSK,KKR
+1254107,2021,SRH v PBKS,Sharjah Cricket Stadium,SRH,PBKS
+1254097,2021,DC v RR,"Sheikh Zayed Stadium, Abu Dhabi",DC,RR
+1254113,2021,RCB v CSK,Sharjah Cricket Stadium,RCB,CSK
+1254096,2021,MI v KKR,"Sheikh Zayed Stadium, Abu Dhabi",MI,KKR
+1254105,2021,DC v SRH,Dubai International Cricket Stadium,DC,SRH
+1254111,2021,PBKS v RR,Dubai International Cricket Stadium,PBKS,RR
+1254087,2021,KKR v RCB,"Sheikh Zayed Stadium, Abu Dhabi",KKR,RCB
+1254104,2021,CSK v MI,Dubai International Cricket Stadium,CSK,MI
+1254086,2021,PBKS v DC,"Narendra Modi Stadium, Motera, Ahmedabad",PBKS,DC
+1254085,2021,RR v SRH,"Arun Jaitley Stadium, Delhi",RR,SRH
+1254084,2021,MI v CSK,"Arun Jaitley Stadium, Delhi",MI,CSK
+1254083,2021,PBKS v RCB,"Narendra Modi Stadium, Motera, Ahmedabad",PBKS,RCB
+1254082,2021,DC v KKR,"Narendra Modi Stadium, Motera, Ahmedabad",DC,KKR
+1254081,2021,MI v RR,"Arun Jaitley Stadium, Delhi",MI,RR
+1254080,2021,CSK v SRH,"Arun Jaitley Stadium, Delhi",CSK,SRH
+1254079,2021,DC v RCB,"Narendra Modi Stadium, Motera, Ahmedabad",DC,RCB
+1254078,2021,PBKS v KKR,"Narendra Modi Stadium, Motera, Ahmedabad",PBKS,KKR
+1254077,2021,SRH v DC,"MA Chidambaram Stadium, Chepauk, Chennai",SRH,DC
+1254076,2021,CSK v RCB,"Wankhede Stadium, Mumbai",CSK,RCB
+1254075,2021,RR v KKR,"Wankhede Stadium, Mumbai",RR,KKR
+1254074,2021,PBKS v MI,"MA Chidambaram Stadium, Chepauk, Chennai",PBKS,MI
+1254073,2021,RCB v RR,"Wankhede Stadium, Mumbai",RCB,RR
+1254072,2021,KKR v CSK,"Wankhede Stadium, Mumbai",KKR,CSK
+1254071,2021,PBKS v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",PBKS,SRH
+1254070,2021,DC v MI,"MA Chidambaram Stadium, Chepauk, Chennai",DC,MI
+1254069,2021,CSK v RR,"Wankhede Stadium, Mumbai",CSK,RR
+1254068,2021,DC v PBKS,"Wankhede Stadium, Mumbai",DC,PBKS
+1254067,2021,RCB v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",RCB,KKR
+1254066,2021,MI v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",MI,SRH
+1254065,2021,PBKS v CSK,"Wankhede Stadium, Mumbai",PBKS,CSK
+1254064,2021,RR v DC,"Wankhede Stadium, Mumbai",RR,DC
+1254063,2021,SRH v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",SRH,RCB
+1254062,2021,KKR v MI,"MA Chidambaram Stadium, Chepauk, Chennai",KKR,MI
+1254061,2021,RR v PBKS,"Wankhede Stadium, Mumbai",RR,PBKS
+1254060,2021,SRH v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",SRH,KKR
+1254059,2021,CSK v DC,"Wankhede Stadium, Mumbai",CSK,DC
+1254058,2021,MI v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",MI,RCB
+1216492,2020,MI v CSK,"Sheikh Zayed Stadium, Abu Dhabi",MI,CSK
+1216493,2020,DC v PBKS,Dubai International Cricket Stadium,DC,PBKS
+1216534,2020,SRH v RCB,Dubai International Cricket Stadium,SRH,RCB
+1216496,2020,RR v CSK,Sharjah Cricket Stadium,RR,CSK
+1216508,2020,KKR v MI,"Sheikh Zayed Stadium, Abu Dhabi",KKR,MI
+1216510,2020,PBKS v RCB,Dubai International Cricket Stadium,PBKS,RCB
+1216539,2020,CSK v DC,Dubai International Cricket Stadium,CSK,DC
+1216545,2020,KKR v SRH,"Sheikh Zayed Stadium, Abu Dhabi",KKR,SRH
+1216527,2020,RR v PBKS,Sharjah Cricket Stadium,RR,PBKS
+1216547,2020,RCB v MI,Dubai International Cricket Stadium,RCB,MI
+1216532,2020,DC v SRH,"Sheikh Zayed Stadium, Abu Dhabi",DC,SRH
+1216504,2020,RR v KKR,Dubai International Cricket Stadium,RR,KKR
+1216503,2020,PBKS v MI,"Sheikh Zayed Stadium, Abu Dhabi",PBKS,MI
+1216516,2020,CSK v SRH,Dubai International Cricket Stadium,CSK,SRH
+1216514,2020,RCB v RR,"Sheikh Zayed Stadium, Abu Dhabi",RCB,RR
+1216515,2020,DC v KKR,Sharjah Cricket Stadium,DC,KKR
+1216538,2020,MI v SRH,Sharjah Cricket Stadium,MI,SRH
+1216513,2020,PBKS v CSK,Dubai International Cricket Stadium,PBKS,CSK
+1216519,2020,RCB v DC,Dubai International Cricket Stadium,RCB,DC
+1216511,2020,MI v RR,"Sheikh Zayed Stadium, Abu Dhabi",MI,RR
+1216501,2020,KKR v CSK,"Sheikh Zayed Stadium, Abu Dhabi",KKR,CSK
+1216542,2020,SRH v PBKS,Dubai International Cricket Stadium,SRH,PBKS
+1216500,2020,RR v DC,Sharjah Cricket Stadium,RR,DC
+1216523,2020,PBKS v KKR,"Sheikh Zayed Stadium, Abu Dhabi",PBKS,KKR
+1216525,2020,CSK v RCB,Dubai International Cricket Stadium,CSK,RCB
+1216507,2020,SRH v RR,Dubai International Cricket Stadium,SRH,RR
+1216529,2020,MI v DC,"Sheikh Zayed Stadium, Abu Dhabi",MI,DC
+1216540,2020,RCB v KKR,Sharjah Cricket Stadium,RCB,KKR
+1216528,2020,SRH v CSK,Dubai International Cricket Stadium,SRH,CSK
+1216543,2020,DC v RR,Dubai International Cricket Stadium,DC,RR
+1216531,2020,RCB v PBKS,Sharjah Cricket Stadium,RCB,PBKS
+1216526,2020,MI v KKR,"Sheikh Zayed Stadium, Abu Dhabi",MI,KKR
+1216522,2020,RR v RCB,Dubai International Cricket Stadium,RR,RCB
+1216509,2020,DC v CSK,Sharjah Cricket Stadium,DC,CSK
+1216512,2020,SRH v KKR,"Sheikh Zayed Stadium, Abu Dhabi",SRH,KKR
+1216517,2020,MI v PBKS,Dubai International Cricket Stadium,MI,PBKS
+1216533,2020,CSK v RR,"Sheikh Zayed Stadium, Abu Dhabi",CSK,RR
+1216546,2020,PBKS v DC,Dubai International Cricket Stadium,PBKS,DC
+1216494,2020,KKR v RCB,"Sheikh Zayed Stadium, Abu Dhabi",KKR,RCB
+1216518,2020,RR v SRH,Dubai International Cricket Stadium,RR,SRH
+1216521,2020,CSK v MI,Sharjah Cricket Stadium,CSK,MI
+1216497,2020,KKR v DC,"Sheikh Zayed Stadium, Abu Dhabi",KKR,DC
+1216498,2020,PBKS v SRH,Dubai International Cricket Stadium,PBKS,SRH
+1216544,2020,RCB v CSK,Dubai International Cricket Stadium,RCB,CSK
+1216541,2020,RR v MI,"Sheikh Zayed Stadium, Abu Dhabi",RR,MI
+1216520,2020,KKR v PBKS,Sharjah Cricket Stadium,KKR,PBKS
+1216524,2020,SRH v DC,Dubai International Cricket Stadium,SRH,DC
+1216499,2020,MI v RCB,"Sheikh Zayed Stadium, Abu Dhabi",MI,RCB
+1216536,2020,CSK v KKR,Dubai International Cricket Stadium,CSK,KKR
+1216537,2020,PBKS v RR,"Sheikh Zayed Stadium, Abu Dhabi",PBKS,RR
+1216535,2020,DC v MI,Dubai International Cricket Stadium,DC,MI
+1216502,2020,RCB v SRH,Sharjah Cricket Stadium,RCB,SRH
+1216506,2020,CSK v PBKS,"Sheikh Zayed Stadium, Abu Dhabi",CSK,PBKS
+1216530,2020,KKR v RR,Dubai International Cricket Stadium,KKR,RR
+1216505,2020,DC v RCB,"Sheikh Zayed Stadium, Abu Dhabi",DC,RCB
+1216495,2020,SRH v MI,Sharjah Cricket Stadium,SRH,MI
+1237177,2020,DC v MI,Dubai International Cricket Stadium,DC,MI
+1237178,2020,RCB v SRH,"Sheikh Zayed Stadium, Abu Dhabi",RCB,SRH
+1237180,2020,DC v SRH,"Sheikh Zayed Stadium, Abu Dhabi",DC,SRH
+1237181,2020,DC v MI,Dubai International Cricket Stadium,DC,MI
+1175356,2019,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+1175357,2019,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+1175358,2019,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+1175359,2019,RR v PBKS,"Sawai Mansingh Stadium, Jaipur",RR,PBKS
+1175360,2019,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+1175361,2019,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+1175362,2019,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+1175363,2019,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+1175364,2019,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+1175365,2019,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+1175366,2019,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+1175367,2019,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+1175368,2019,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+1175369,2019,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+1175370,2019,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+1175371,2019,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+1175372,2019,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+1178393,2019,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+1178394,2019,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+1178395,2019,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+1178396,2019,RR v KKR,"Sawai Mansingh Stadium, Jaipur",RR,KKR
+1178397,2019,PBKS v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+1178398,2019,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+1178399,2019,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+1178400,2019,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+1178401,2019,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+1178402,2019,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+1178403,2019,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+1178404,2019,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+1178405,2019,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+1178406,2019,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+1178407,2019,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+1178408,2019,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,CSK
+1178409,2019,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+1178410,2019,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+1178411,2019,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+1178412,2019,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+1178413,2019,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+1178414,2019,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+1178415,2019,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,DC
+1178416,2019,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+1178417,2019,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+1178418,2019,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+1178419,2019,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+1178420,2019,RR v SRH,"Sawai Mansingh Stadium, Jaipur",RR,SRH
+1178421,2019,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+1178422,2019,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+1178423,2019,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+1178424,2019,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+1178425,2019,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+1178426,2019,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+1178427,2019,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+1178428,2019,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+1178429,2019,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+1178430,2019,PBKS v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,CSK
+1178431,2019,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+1181764,2019,MI v CSK,"MA Chidambaram Stadium, Chepauk, Chennai",MI,CSK
+1181766,2019,DC v SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",DC,SRH
+1181767,2019,CSK v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",CSK,DC
+1181768,2019,MI v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",MI,CSK
+1136561,2018,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+1136562,2018,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+1136563,2018,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+1136564,2018,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+1136565,2018,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+1136566,2018,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,DC
+1136567,2018,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+1136568,2018,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+1136569,2018,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+1136570,2018,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+1136571,2018,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+1136572,2018,PBKS v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,CSK
+1136573,2018,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+1136574,2018,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+1136575,2018,RR v KKR,"Sawai Mansingh Stadium, Jaipur",RR,KKR
+1136576,2018,PBKS v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+1136577,2018,CSK v RR,"Maharashtra Cricket Association Stadium, Pune",CSK,RR
+1136578,2018,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+1136579,2018,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+1136580,2018,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,CSK
+1136581,2018,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+1136582,2018,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+1136583,2018,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+1136584,2018,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+1136585,2018,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+1136586,2018,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+1136587,2018,CSK v MI,"Maharashtra Cricket Association Stadium, Pune",CSK,MI
+1136588,2018,RR v SRH,"Sawai Mansingh Stadium, Jaipur",RR,SRH
+1136589,2018,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+1136590,2018,CSK v DC,"Maharashtra Cricket Association Stadium, Pune",CSK,DC
+1136591,2018,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+1136592,2018,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+1136593,2018,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+1136594,2018,PBKS v MI,"Holkar Cricket Stadium, Indore",PBKS,MI
+1136595,2018,CSK v RCB,"Maharashtra Cricket Association Stadium, Pune",CSK,RCB
+1136596,2018,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+1136597,2018,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+1136598,2018,PBKS v RR,"Holkar Cricket Stadium, Indore",PBKS,RR
+1136599,2018,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+1136600,2018,RR v PBKS,"Sawai Mansingh Stadium, Jaipur",RR,PBKS
+1136601,2018,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+1136602,2018,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+1136603,2018,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+1136604,2018,PBKS v KKR,"Holkar Cricket Stadium, Indore",PBKS,KKR
+1136605,2018,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+1136606,2018,CSK v SRH,"Maharashtra Cricket Association Stadium, Pune",CSK,SRH
+1136607,2018,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+1136608,2018,PBKS v RCB,"Holkar Cricket Stadium, Indore",PBKS,RCB
+1136609,2018,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+1136610,2018,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+1136611,2018,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+1136612,2018,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+1136613,2018,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+1136614,2018,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+1136615,2018,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+1136616,2018,CSK v PBKS,"Maharashtra Cricket Association Stadium, Pune",CSK,PBKS
+1136617,2018,SRH v CSK,"Wankhede Stadium, Mumbai",SRH,CSK
+1136618,2018,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+1136619,2018,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+1136620,2018,CSK v SRH,"Wankhede Stadium, Mumbai",CSK,SRH
+1082591,2017,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+1082592,2017,RPS v MI,"Maharashtra Cricket Association Stadium, Pune",RPS,MI
+1082593,2017,GL v KKR,"Saurashtra Cricket Association Stadium, Rajkot",GL,KKR
+1082594,2017,PBKS v RPS,"Holkar Cricket Stadium, Indore",PBKS,RPS
+1082595,2017,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+1082596,2017,SRH v GL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,GL
+1082597,2017,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+1082598,2017,PBKS v RCB,"Holkar Cricket Stadium, Indore",PBKS,RCB
+1082599,2017,RPS v DC,"Maharashtra Cricket Association Stadium, Pune",RPS,DC
+1082600,2017,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+1082601,2017,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+1082602,2017,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+1082603,2017,GL v RPS,"Saurashtra Cricket Association Stadium, Rajkot",GL,RPS
+1082604,2017,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+1082605,2017,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+1082606,2017,MI v GL,"Wankhede Stadium, Mumbai",MI,GL
+1082607,2017,RCB v RPS,"M.Chinnaswamy Stadium, Bengaluru",RCB,RPS
+1082608,2017,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+1082609,2017,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+1082610,2017,GL v RCB,"Saurashtra Cricket Association Stadium, Rajkot",GL,RCB
+1082611,2017,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+1082612,2017,PBKS v MI,"Holkar Cricket Stadium, Indore",PBKS,MI
+1082613,2017,KKR v GL,"Eden Gardens, Kolkata",KKR,GL
+1082615,2017,RPS v SRH,"Maharashtra Cricket Association Stadium, Pune",RPS,SRH
+1082614,2017,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+1082616,2017,GL v PBKS,"Saurashtra Cricket Association Stadium, Rajkot",GL,PBKS
+1082617,2017,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+1082618,2017,MI v RPS,"Wankhede Stadium, Mumbai",MI,RPS
+1082620,2017,RPS v KKR,"Maharashtra Cricket Association Stadium, Pune",RPS,KKR
+1082621,2017,RCB v GL,"M.Chinnaswamy Stadium, Bengaluru",RCB,GL
+1082622,2017,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+1082623,2017,PBKS v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+1082624,2017,RPS v RCB,"Maharashtra Cricket Association Stadium, Pune",RPS,RCB
+1082625,2017,GL v MI,"Saurashtra Cricket Association Stadium, Rajkot",GL,MI
+1082626,2017,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+1082627,2017,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+1082628,2017,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+1082629,2017,RPS v GL,"Maharashtra Cricket Association Stadium, Pune",RPS,GL
+1082630,2017,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+1082631,2017,KKR v RPS,"Eden Gardens, Kolkata",KKR,RPS
+1082632,2017,DC v GL,"Arun Jaitley Stadium, Delhi",DC,GL
+1082633,2017,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+1082634,2017,SRH v RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RPS
+1082635,2017,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+1082636,2017,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+1082637,2017,PBKS v GL,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,GL
+1082638,2017,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+1082639,2017,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+1082640,2017,GL v DC,"Green Park, Kanpur",GL,DC
+1082641,2017,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+1082642,2017,DC v RPS,"Arun Jaitley Stadium, Delhi",DC,RPS
+1082643,2017,GL v SRH,"Green Park, Kanpur",GL,SRH
+1082644,2017,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+1082645,2017,RPS v PBKS,"Maharashtra Cricket Association Stadium, Pune",RPS,PBKS
+1082646,2017,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+1082647,2017,MI v RPS,"Wankhede Stadium, Mumbai",MI,RPS
+1082648,2017,SRH v KKR,"M.Chinnaswamy Stadium, Bengaluru",SRH,KKR
+1082649,2017,MI v KKR,"M.Chinnaswamy Stadium, Bengaluru",MI,KKR
+1082650,2017,MI v RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",MI,RPS
+980901,2016,MI v RPS,"Wankhede Stadium, Mumbai",MI,RPS
+980903,2016,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+980905,2016,PBKS v GL,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,GL
+980907,2016,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+980909,2016,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+980911,2016,GL v RPS,"Saurashtra Cricket Association Stadium, Rajkot",GL,RPS
+980913,2016,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+980915,2016,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+980917,2016,MI v GL,"Wankhede Stadium, Mumbai",MI,GL
+980919,2016,PBKS v RPS,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RPS
+980921,2016,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+980923,2016,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+980925,2016,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+980927,2016,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+980929,2016,GL v SRH,"Saurashtra Cricket Association Stadium, Rajkot",GL,SRH
+980931,2016,RPS v RCB,"Maharashtra Cricket Association Stadium, Pune",RPS,RCB
+980933,2016,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+980935,2016,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+980937,2016,GL v RCB,"Saurashtra Cricket Association Stadium, Rajkot",GL,RCB
+980939,2016,RPS v KKR,"Maharashtra Cricket Association Stadium, Pune",RPS,KKR
+980941,2016,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+980943,2016,SRH v RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RPS
+980945,2016,DC v GL,"Arun Jaitley Stadium, Delhi",DC,GL
+980947,2016,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+980949,2016,RPS v GL,"Maharashtra Cricket Association Stadium, Pune",RPS,GL
+980951,2016,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+980953,2016,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+980955,2016,GL v PBKS,"Saurashtra Cricket Association Stadium, Rajkot",GL,PBKS
+980957,2016,RPS v MI,"Maharashtra Cricket Association Stadium, Pune",RPS,MI
+980959,2016,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+980961,2016,GL v DC,"Saurashtra Cricket Association Stadium, Rajkot",GL,DC
+980963,2016,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+980965,2016,DC v RPS,"Arun Jaitley Stadium, Delhi",DC,RPS
+980967,2016,SRH v GL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,GL
+980969,2016,RCB v RPS,"M.Chinnaswamy Stadium, Bengaluru",RCB,RPS
+980971,2016,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+980973,2016,MI v SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",MI,SRH
+980975,2016,KKR v GL,"Eden Gardens, Kolkata",KKR,GL
+980977,2016,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+980979,2016,RPS v SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",RPS,SRH
+980981,2016,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+980983,2016,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+980985,2016,MI v PBKS,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",MI,PBKS
+980987,2016,RCB v GL,"M.Chinnaswamy Stadium, Bengaluru",RCB,GL
+980989,2016,KKR v RPS,"Eden Gardens, Kolkata",KKR,RPS
+980991,2016,PBKS v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+980993,2016,MI v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",MI,DC
+980995,2016,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+980997,2016,RPS v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",RPS,DC
+980999,2016,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+981001,2016,GL v KKR,"Green Park, Kanpur",GL,KKR
+981003,2016,DC v SRH,"Shaheed Veer Narayan Singh International Stadium, Raipur",DC,SRH
+981005,2016,RPS v PBKS,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",RPS,PBKS
+981007,2016,GL v MI,"Green Park, Kanpur",GL,MI
+981009,2016,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+981011,2016,DC v RCB,"Shaheed Veer Narayan Singh International Stadium, Raipur",DC,RCB
+981013,2016,RCB v GL,"M.Chinnaswamy Stadium, Bengaluru",RCB,GL
+981015,2016,KKR v SRH,"Arun Jaitley Stadium, Delhi",KKR,SRH
+981017,2016,GL v SRH,"Arun Jaitley Stadium, Delhi",GL,SRH
+981019,2016,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+829705,2015,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+829707,2015,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+829709,2015,PBKS v RR,"Maharashtra Cricket Association Stadium, Pune",PBKS,RR
+829711,2015,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+829713,2015,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+829715,2015,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+829717,2015,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+829719,2015,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+829721,2015,RR v MI,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,MI
+829725,2015,PBKS v DC,"Maharashtra Cricket Association Stadium, Pune",PBKS,DC
+829727,2015,SRH v RR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,RR
+829729,2015,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+829731,2015,SRH v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,DC
+829733,2015,PBKS v KKR,"Maharashtra Cricket Association Stadium, Pune",PBKS,KKR
+829735,2015,RR v CSK,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,CSK
+829737,2015,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+829739,2015,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+829741,2015,RR v PBKS,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,PBKS
+829743,2015,SRH v KKR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,KKR
+829745,2015,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+829747,2015,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+829749,2015,RR v RCB,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,RCB
+829751,2015,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+829753,2015,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+829757,2015,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+829759,2015,PBKS v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+829765,2015,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+829763,2015,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+829723,2015,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+829767,2015,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+829769,2015,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+829771,2015,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+829773,2015,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,CSK
+829775,2015,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+829777,2015,RR v DC,"Brabourne Stadium, Mumbai",RR,DC
+829779,2015,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+829781,2015,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+829783,2015,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+829785,2015,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+829787,2015,RR v SRH,"Brabourne Stadium, Mumbai",RR,SRH
+829761,2015,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+829789,2015,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+829791,2015,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+829793,2015,DC v SRH,"Shaheed Veer Narayan Singh International Stadium, Raipur",DC,SRH
+829795,2015,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+829797,2015,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+829799,2015,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+829801,2015,DC v CSK,"Shaheed Veer Narayan Singh International Stadium, Raipur",DC,CSK
+829803,2015,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+829805,2015,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+829807,2015,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+829809,2015,PBKS v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,CSK
+829811,2015,RR v KKR,"Brabourne Stadium, Mumbai",RR,KKR
+829813,2015,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+829815,2015,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+829817,2015,CSK v MI,"Wankhede Stadium, Mumbai",CSK,MI
+829819,2015,RR v RCB,"Maharashtra Cricket Association Stadium, Pune",RR,RCB
+829821,2015,CSK v RCB,"JSCA International Stadium Complex, Ranchi",CSK,RCB
+829823,2015,CSK v MI,"Eden Gardens, Kolkata",CSK,MI
+729279,2014,MI v KKR,"Sheikh Zayed Stadium, Abu Dhabi",MI,KKR
+729281,2014,DC v RCB,Sharjah Cricket Stadium,DC,RCB
+729283,2014,CSK v PBKS,"Sheikh Zayed Stadium, Abu Dhabi",CSK,PBKS
+729285,2014,SRH v RR,"Sheikh Zayed Stadium, Abu Dhabi",SRH,RR
+729287,2014,RCB v MI,Dubai International Cricket Stadium,RCB,MI
+729289,2014,KKR v DC,Dubai International Cricket Stadium,KKR,DC
+729291,2014,RR v PBKS,Sharjah Cricket Stadium,RR,PBKS
+729293,2014,CSK v DC,"Sheikh Zayed Stadium, Abu Dhabi",CSK,DC
+729295,2014,PBKS v SRH,Sharjah Cricket Stadium,PBKS,SRH
+729297,2014,RR v CSK,Dubai International Cricket Stadium,RR,CSK
+729299,2014,RCB v KKR,Sharjah Cricket Stadium,RCB,KKR
+729301,2014,SRH v DC,Dubai International Cricket Stadium,SRH,DC
+729303,2014,CSK v MI,Dubai International Cricket Stadium,CSK,MI
+729305,2014,RR v RCB,"Sheikh Zayed Stadium, Abu Dhabi",RR,RCB
+729307,2014,KKR v PBKS,"Sheikh Zayed Stadium, Abu Dhabi",KKR,PBKS
+729309,2014,DC v MI,Sharjah Cricket Stadium,DC,MI
+729311,2014,SRH v CSK,Sharjah Cricket Stadium,SRH,CSK
+729313,2014,PBKS v RCB,Dubai International Cricket Stadium,PBKS,RCB
+729315,2014,KKR v RR,"Sheikh Zayed Stadium, Abu Dhabi",KKR,RR
+729317,2014,MI v SRH,Dubai International Cricket Stadium,MI,SRH
+733971,2014,CSK v KKR,"JSCA International Stadium Complex, Ranchi",CSK,KKR
+733973,2014,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+733975,2014,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+733977,2014,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+733979,2014,RR v KKR,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,KKR
+733981,2014,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+733983,2014,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+733985,2014,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+733987,2014,PBKS v CSK,"Barabati Stadium, Cuttack",PBKS,CSK
+733989,2014,RR v SRH,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,SRH
+733991,2014,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+733993,2014,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+733995,2014,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+733997,2014,PBKS v KKR,"Barabati Stadium, Cuttack",PBKS,KKR
+733999,2014,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+734001,2014,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+734003,2014,CSK v RR,"JSCA International Stadium Complex, Ranchi",CSK,RR
+734005,2014,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+734007,2014,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+734009,2014,KKR v MI,"Barabati Stadium, Cuttack",KKR,MI
+734011,2014,RR v DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,DC
+734013,2014,CSK v RCB,"JSCA International Stadium Complex, Ranchi",CSK,RCB
+734015,2014,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+734017,2014,RR v MI,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,MI
+734019,2014,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+734021,2014,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+734023,2014,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+734025,2014,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+734027,2014,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+734029,2014,CSK v SRH,"JSCA International Stadium Complex, Ranchi",CSK,SRH
+734031,2014,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+734033,2014,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+734035,2014,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+734037,2014,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+734039,2014,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+734041,2014,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+734043,2014,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+734045,2014,MI v CSK,"Brabourne Stadium, Mumbai",MI,CSK
+734047,2014,CSK v PBKS,"Wankhede Stadium, Mumbai",CSK,PBKS
+734049,2014,PBKS v KKR,"M.Chinnaswamy Stadium, Bengaluru",PBKS,KKR
+597998,2013,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+597999,2013,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+598000,2013,SRH v PWI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PWI
+598001,2013,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+598002,2013,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+598003,2013,PWI v PBKS,"Maharashtra Cricket Association Stadium, Pune",PWI,PBKS
+598004,2013,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+598005,2013,RR v KKR,"Sawai Mansingh Stadium, Jaipur",RR,KKR
+598048,2013,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+598006,2013,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+598007,2013,PBKS v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,CSK
+598008,2013,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+598009,2013,PWI v RR,"Maharashtra Cricket Association Stadium, Pune",PWI,RR
+598010,2013,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+598011,2013,MI v PWI,"Wankhede Stadium, Mumbai",MI,PWI
+598012,2013,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+598013,2013,KKR v SRH,"Eden Gardens, Kolkata",KKR,SRH
+598014,2013,RR v PBKS,"Sawai Mansingh Stadium, Jaipur",RR,PBKS
+598015,2013,CSK v PWI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PWI
+598016,2013,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+598017,2013,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+598018,2013,PWI v SRH,"Maharashtra Cricket Association Stadium, Pune",PWI,SRH
+598019,2013,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+598020,2013,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+598021,2013,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+598022,2013,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+598023,2013,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+598024,2013,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+598025,2013,PBKS v PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,PWI
+598026,2013,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+598027,2013,RCB v PWI,"M.Chinnaswamy Stadium, Bengaluru",RCB,PWI
+598059,2013,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+598029,2013,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+598030,2013,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+598031,2013,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+598032,2013,RR v SRH,"Sawai Mansingh Stadium, Jaipur",RR,SRH
+598033,2013,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+598034,2013,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+598035,2013,DC v PWI,"Shaheed Veer Narayan Singh International Stadium, Raipur",DC,PWI
+598036,2013,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+598037,2013,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+598038,2013,PWI v CSK,"Maharashtra Cricket Association Stadium, Pune",PWI,CSK
+598039,2013,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+598040,2013,DC v KKR,"Shaheed Veer Narayan Singh International Stadium, Raipur",DC,KKR
+598041,2013,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+598042,2013,PWI v RCB,"Maharashtra Cricket Association Stadium, Pune",PWI,RCB
+598043,2013,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+598044,2013,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+598046,2013,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+598047,2013,RR v PWI,"Sawai Mansingh Stadium, Jaipur",RR,PWI
+598064,2013,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+598049,2013,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,DC
+598050,2013,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+598051,2013,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,CSK
+598052,2013,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+598053,2013,PWI v KKR,"Maharashtra Cricket Association Stadium, Pune",PWI,KKR
+598054,2013,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+598055,2013,PWI v MI,"Maharashtra Cricket Association Stadium, Pune",PWI,MI
+598056,2013,PBKS v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+598057,2013,KKR v RCB,"JSCA International Stadium Complex, Ranchi",KKR,RCB
+598058,2013,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+598060,2013,MI v SRH,"Wankhede Stadium, Mumbai",MI,SRH
+598045,2013,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+598062,2013,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+598061,2013,KKR v PWI,"JSCA International Stadium Complex, Ranchi",KKR,PWI
+598063,2013,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+598028,2013,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,DC
+598065,2013,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+598066,2013,PBKS v MI,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,MI
+598068,2013,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+598067,2013,PWI v DC,"Maharashtra Cricket Association Stadium, Pune",PWI,DC
+598069,2013,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+598070,2013,CSK v MI,"Arun Jaitley Stadium, Delhi",CSK,MI
+598071,2013,RR v SRH,"Arun Jaitley Stadium, Delhi",RR,SRH
+598072,2013,MI v RR,"Eden Gardens, Kolkata",MI,RR
+598073,2013,CSK v MI,"Eden Gardens, Kolkata",CSK,MI
+548306,2012,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+548307,2012,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+548308,2012,MI v PWI,"Wankhede Stadium, Mumbai",MI,PWI
+548309,2012,RR v PBKS,"Sawai Mansingh Stadium, Jaipur",RR,PBKS
+548310,2012,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+548311,2012,DC v CSK,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,CSK
+548312,2012,RR v KKR,"Sawai Mansingh Stadium, Jaipur",RR,KKR
+548313,2012,PWI v PBKS,"Maharashtra Cricket Association Stadium, Pune",PWI,PBKS
+548314,2012,DC v MI,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,MI
+548315,2012,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+548316,2012,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+548317,2012,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+548318,2012,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+548319,2012,PBKS v PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,PWI
+548320,2012,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+548322,2012,PWI v CSK,"Maharashtra Cricket Association Stadium, Pune",PWI,CSK
+548323,2012,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+548324,2012,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+548325,2012,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+548326,2012,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,SRH
+548327,2012,RCB v PWI,"M.Chinnaswamy Stadium, Bengaluru",RCB,PWI
+548328,2012,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+548321,2012,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+548330,2012,CSK v PWI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PWI
+548331,2012,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+548332,2012,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+548333,2012,DC v PWI,"Arun Jaitley Stadium, Delhi",DC,PWI
+548334,2012,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+548335,2012,DC v KKR,"Barabati Stadium, Cuttack",SRH,KKR
+548336,2012,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+548337,2012,PWI v DC,"Maharashtra Cricket Association Stadium, Pune",PWI,DC
+548339,2012,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+548341,2012,PWI v DC,"Maharashtra Cricket Association Stadium, Pune",PWI,SRH
+548342,2012,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+548343,2012,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+548344,2012,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+548345,2012,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+548346,2012,MI v DC,"Wankhede Stadium, Mumbai",MI,SRH
+548347,2012,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+548348,2012,DC v PWI,"Barabati Stadium, Cuttack",SRH,PWI
+548349,2012,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,DC
+548350,2012,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+548351,2012,PWI v MI,"Maharashtra Cricket Association Stadium, Pune",PWI,MI
+548352,2012,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+548353,2012,KKR v PWI,"Eden Gardens, Kolkata",KKR,PWI
+548354,2012,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+548355,2012,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+548356,2012,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+548357,2012,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+548358,2012,PWI v RR,"Maharashtra Cricket Association Stadium, Pune",PWI,RR
+548359,2012,DC v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+548360,2012,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+548329,2012,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+548361,2012,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+548362,2012,PWI v RCB,"Maharashtra Cricket Association Stadium, Pune",PWI,RCB
+548363,2012,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+548364,2012,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+548365,2012,RR v PWI,"Sawai Mansingh Stadium, Jaipur",RR,PWI
+548366,2012,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+548367,2012,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+548368,2012,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+548369,2012,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+548370,2012,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+548371,2012,PBKS v CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,CSK
+548372,2012,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+548373,2012,DC v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+548374,2012,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,DC
+548375,2012,PWI v KKR,"Maharashtra Cricket Association Stadium, Pune",PWI,KKR
+548376,2012,DC v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+548377,2012,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+548378,2012,DC v KKR,"Maharashtra Cricket Association Stadium, Pune",DC,KKR
+548379,2012,CSK v MI,"M.Chinnaswamy Stadium, Bengaluru",CSK,MI
+548380,2012,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+548381,2012,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+501198,2011,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+501199,2011,DC v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+501200,2011,Kochi v RCB,"Nehru Stadium, Kochi",Kochi,RCB
+501201,2011,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+501202,2011,PWI v PBKS,"Dr DY Patil Sports Academy, Mumbai",PWI,PBKS
+501203,2011,KKR v DC,"Eden Gardens, Kolkata",KKR,SRH
+501204,2011,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,DC
+501205,2011,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+501206,2011,PBKS v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,CSK
+501207,2011,PWI v Kochi,"Dr DY Patil Sports Academy, Mumbai",PWI,Kochi
+501208,2011,DC v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+501209,2011,RR v KKR,"Sawai Mansingh Stadium, Jaipur",RR,KKR
+501210,2011,MI v Kochi,"Wankhede Stadium, Mumbai",MI,Kochi
+501211,2011,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+501212,2011,DC v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+501213,2011,PWI v DC,"Dr DY Patil Sports Academy, Mumbai",PWI,DC
+501214,2011,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+501215,2011,Kochi v CSK,"Nehru Stadium, Kochi",Kochi,CSK
+501216,2011,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+501218,2011,MI v PWI,"Wankhede Stadium, Mumbai",MI,PWI
+501219,2011,KKR v Kochi,"Eden Gardens, Kolkata",KKR,Kochi
+501220,2011,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+501222,2011,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+501221,2011,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+501223,2011,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+501224,2011,DC v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+501225,2011,RR v Kochi,"Sawai Mansingh Stadium, Jaipur",RR,Kochi
+501226,2011,CSK v PWI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PWI
+501227,2011,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+501228,2011,PWI v CSK,"Dr DY Patil Sports Academy, Mumbai",PWI,CSK
+501229,2011,Kochi v DC,"Nehru Stadium, Kochi",Kochi,SRH
+501230,2011,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+501231,2011,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+501232,2011,RCB v PWI,"M.Chinnaswamy Stadium, Bengaluru",RCB,PWI
+501233,2011,Kochi v DC,"Nehru Stadium, Kochi",Kochi,DC
+501234,2011,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+501235,2011,RR v PWI,"Sawai Mansingh Stadium, Jaipur",RR,PWI
+501236,2011,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+501237,2011,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+501238,2011,DC v Kochi,"Arun Jaitley Stadium, Delhi",DC,Kochi
+501239,2011,DC v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+501240,2011,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+501241,2011,PWI v MI,"Dr DY Patil Sports Academy, Mumbai",PWI,MI
+501242,2011,Kochi v KKR,"Nehru Stadium, Kochi",Kochi,KKR
+501243,2011,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+501244,2011,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+501245,2011,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+501246,2011,MI v DC,"Wankhede Stadium, Mumbai",MI,DC
+501247,2011,RCB v Kochi,"M.Chinnaswamy Stadium, Bengaluru",RCB,Kochi
+501248,2011,PBKS v PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,PWI
+501249,2011,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+501250,2011,DC v PWI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PWI
+501251,2011,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+501252,2011,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+501253,2011,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+501254,2011,Kochi v PBKS,"Holkar Cricket Stadium, Indore",Kochi,PBKS
+501255,2011,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+501256,2011,MI v DC,"Wankhede Stadium, Mumbai",MI,SRH
+501257,2011,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,DC
+501258,2011,Kochi v RR,"Holkar Cricket Stadium, Indore",Kochi,RR
+501259,2011,PWI v DC,"Dr DY Patil Sports Academy, Mumbai",PWI,SRH
+501260,2011,PBKS v RCB,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,RCB
+501261,2011,CSK v Kochi,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,Kochi
+501262,2011,PWI v KKR,"Dr DY Patil Sports Academy, Mumbai",PWI,KKR
+501263,2011,MI v RR,"Wankhede Stadium, Mumbai",MI,RR
+501264,2011,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,SRH
+501265,2011,DC v PWI,"Arun Jaitley Stadium, Delhi",DC,PWI
+501266,2011,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+501267,2011,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+501268,2011,CSK v RCB,"Wankhede Stadium, Mumbai",CSK,RCB
+501269,2011,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+501270,2011,MI v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",MI,RCB
+501271,2011,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+419106,2010,DC v KKR,"Dr DY Patil Sports Academy, Mumbai",SRH,KKR
+419107,2010,MI v RR,"Brabourne Stadium, Mumbai",MI,RR
+419108,2010,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+419109,2010,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+419110,2010,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+419111,2010,RR v DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,DC
+419112,2010,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+419113,2010,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+419114,2010,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+419115,2010,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+419116,2010,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+419117,2010,DC v PBKS,"Barabati Stadium, Cuttack",SRH,PBKS
+419118,2010,RR v KKR,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,KKR
+419119,2010,MI v RCB,"Brabourne Stadium, Mumbai",MI,RCB
+419120,2010,SRH v DC,"Barabati Stadium, Cuttack",SRH,DC
+419121,2010,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+419122,2010,MI v KKR,"Brabourne Stadium, Mumbai",MI,KKR
+419123,2010,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+419124,2010,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+419128,2010,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+419125,2010,MI v CSK,"Brabourne Stadium, Mumbai",MI,CSK
+419126,2010,RR v DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,SRH
+419127,2010,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+419129,2010,RR v CSK,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",RR,CSK
+419130,2010,DC v MI,"Dr DY Patil Sports Academy, Mumbai",SRH,MI
+419131,2010,DC v KKR,"Arun Jaitley Stadium, Delhi",DC,KKR
+419132,2010,MI v PBKS,"Brabourne Stadium, Mumbai",MI,PBKS
+419133,2010,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+419134,2010,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+419135,2010,KKR v DC,"Eden Gardens, Kolkata",KKR,SRH
+419136,2010,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+419137,2010,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+419138,2010,MI v DC,"Brabourne Stadium, Mumbai",MI,SRH
+419139,2010,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+419140,2010,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+419141,2010,DC v RR,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",SRH,RR
+419142,2010,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+419143,2010,RR v PBKS,"Sawai Mansingh Stadium, Jaipur",RR,PBKS
+419144,2010,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+419145,2010,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+419146,2010,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+419147,2010,DC v CSK,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",SRH,CSK
+419148,2010,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+419149,2010,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+419150,2010,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+419151,2010,DC v RCB,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",SRH,RCB
+419152,2010,MI v DC,"Brabourne Stadium, Mumbai",MI,DC
+419153,2010,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+419154,2010,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+419155,2010,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+419156,2010,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,SRH
+419157,2010,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+419158,2010,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+419159,2010,PBKS v CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,CSK
+419160,2010,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+419161,2010,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+419162,2010,MI v RCB,"Dr DY Patil Sports Academy, Mumbai",MI,RCB
+419163,2010,CSK v DC,"Dr DY Patil Sports Academy, Mumbai",CSK,SRH
+419164,2010,DC v RCB,"Dr DY Patil Sports Academy, Mumbai",SRH,RCB
+419165,2010,MI v CSK,"Dr DY Patil Sports Academy, Mumbai",MI,CSK
+392181,2009,CSK v MI,"Newlands, Cape Town",CSK,MI
+392182,2009,RCB v RR,"Newlands, Cape Town",RCB,RR
+392183,2009,DC v PBKS,"Newlands, Cape Town",DC,PBKS
+392184,2009,DC v KKR,"Newlands, Cape Town",SRH,KKR
+392185,2009,RCB v CSK,"St George's Park, Port Elizabeth",RCB,CSK
+392186,2009,PBKS v KKR,"Kingsmead, Durban",PBKS,KKR
+392188,2009,RCB v DC,"Newlands, Cape Town",RCB,SRH
+392189,2009,CSK v DC,"Kingsmead, Durban",CSK,DC
+392190,2009,KKR v RR,"Newlands, Cape Town",KKR,RR
+392191,2009,RCB v PBKS,"Kingsmead, Durban",RCB,PBKS
+392192,2009,DC v MI,"Kingsmead, Durban",SRH,MI
+392194,2009,RCB v DC,"St George's Park, Port Elizabeth",RCB,DC
+392195,2009,PBKS v RR,"Newlands, Cape Town",PBKS,RR
+392196,2009,CSK v DC,"Kingsmead, Durban",CSK,SRH
+392197,2009,KKR v MI,"St George's Park, Port Elizabeth",KKR,MI
+392198,2009,DC v RR,"SuperSport Park, Centurion",DC,RR
+392199,2009,RCB v KKR,"Kingsmead, Durban",RCB,KKR
+392200,2009,PBKS v MI,"Kingsmead, Durban",PBKS,MI
+392201,2009,SRH v DC,"SuperSport Park, Centurion",SRH,DC
+392202,2009,CSK v RR,"SuperSport Park, Centurion",CSK,RR
+392203,2009,KKR v MI,"Buffalo Park, East London",KKR,MI
+392204,2009,RCB v PBKS,"Kingsmead, Durban",RCB,PBKS
+392205,2009,DC v RR,"St George's Park, Port Elizabeth",SRH,RR
+392206,2009,CSK v DC,"The Wanderers Stadium, Johannesburg",CSK,DC
+392207,2009,PBKS v KKR,"St George's Park, Port Elizabeth",PBKS,KKR
+392208,2009,RCB v MI,"The Wanderers Stadium, Johannesburg",RCB,MI
+392209,2009,CSK v DC,"Buffalo Park, East London",CSK,SRH
+392210,2009,PBKS v RR,"Kingsmead, Durban",PBKS,RR
+392211,2009,DC v KKR,"Kingsmead, Durban",DC,KKR
+392212,2009,DC v MI,"SuperSport Park, Centurion",SRH,MI
+392213,2009,RCB v RR,"SuperSport Park, Centurion",RCB,RR
+392214,2009,CSK v PBKS,"SuperSport Park, Centurion",CSK,PBKS
+392215,2009,DC v MI,"Buffalo Park, East London",DC,MI
+392216,2009,DC v PBKS,"Diamond Oval, Kimberley",SRH,PBKS
+392217,2009,CSK v RR,"Diamond Oval, Kimberley",CSK,RR
+392218,2009,RCB v MI,"St George's Park, Port Elizabeth",RCB,MI
+392219,2009,DC v KKR,"The Wanderers Stadium, Johannesburg",DC,KKR
+392220,2009,DC v RR,"Diamond Oval, Kimberley",SRH,RR
+392221,2009,RCB v KKR,"SuperSport Park, Centurion",RCB,KKR
+392222,2009,PBKS v MI,"SuperSport Park, Centurion",PBKS,MI
+392223,2009,SRH v DC,"Kingsmead, Durban",SRH,DC
+392224,2009,RCB v CSK,"Kingsmead, Durban",RCB,CSK
+392225,2009,MI v RR,"Kingsmead, Durban",MI,RR
+392226,2009,DC v PBKS,"Mangaung Oval, Bloemfontein",DC,PBKS
+392227,2009,CSK v MI,"St George's Park, Port Elizabeth",CSK,MI
+392228,2009,DC v KKR,"The Wanderers Stadium, Johannesburg",SRH,KKR
+392229,2009,DC v PBKS,"The Wanderers Stadium, Johannesburg",SRH,PBKS
+392230,2009,DC v RR,"Mangaung Oval, Bloemfontein",DC,RR
+392231,2009,CSK v KKR,"SuperSport Park, Centurion",CSK,KKR
+392232,2009,RCB v DC,"The Wanderers Stadium, Johannesburg",RCB,DC
+392233,2009,KKR v RR,"Kingsmead, Durban",KKR,RR
+392234,2009,CSK v PBKS,"Kingsmead, Durban",CSK,PBKS
+392235,2009,DC v MI,"SuperSport Park, Centurion",DC,MI
+392236,2009,RCB v DC,"SuperSport Park, Centurion",RCB,SRH
+392237,2009,SRH v DC,"SuperSport Park, Centurion",SRH,DC
+392238,2009,CSK v RCB,"The Wanderers Stadium, Johannesburg",CSK,RCB
+392239,2009,DC v RCB,"The Wanderers Stadium, Johannesburg",SRH,RCB
+335982,2008,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR
+335983,2008,PBKS v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,CSK
+335984,2008,DC v RR,"Arun Jaitley Stadium, Delhi",DC,RR
+335986,2008,KKR v DC,"Eden Gardens, Kolkata",KKR,SRH
+335985,2008,MI v RCB,"Wankhede Stadium, Mumbai",MI,RCB
+335987,2008,RR v PBKS,"Sawai Mansingh Stadium, Jaipur",RR,PBKS
+335988,2008,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,DC
+335989,2008,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,MI
+335990,2008,DC v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RR
+335991,2008,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,MI
+335993,2008,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,KKR
+335992,2008,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR
+335995,2008,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,DC
+335994,2008,MI v DC,"Dr DY Patil Sports Academy, Mumbai",MI,SRH
+335996,2008,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK
+335997,2008,KKR v MI,"Eden Gardens, Kolkata",KKR,MI
+335998,2008,DC v RCB,"Arun Jaitley Stadium, Delhi",DC,RCB
+336000,2008,RR v KKR,"Sawai Mansingh Stadium, Jaipur",RR,KKR
+335999,2008,DC v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,PBKS
+336001,2008,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,DC
+336034,2008,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH
+336003,2008,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,KKR
+336004,2008,MI v DC,"Dr DY Patil Sports Academy, Mumbai",MI,DC
+336005,2008,RR v CSK,"Sawai Mansingh Stadium, Jaipur",RR,CSK
+336006,2008,RCB v PBKS,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS
+336007,2008,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,SRH
+336008,2008,MI v RR,"Dr DY Patil Sports Academy, Mumbai",MI,RR
+336009,2008,DC v CSK,"Arun Jaitley Stadium, Delhi",DC,CSK
+336010,2008,KKR v RCB,"Eden Gardens, Kolkata",KKR,RCB
+336011,2008,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,SRH
+336013,2008,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,PBKS
+336014,2008,DC v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,KKR
+336015,2008,RR v DC,"Sawai Mansingh Stadium, Jaipur",RR,DC
+336016,2008,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RCB
+336017,2008,KKR v DC,"Eden Gardens, Kolkata",KKR,DC
+336018,2008,MI v CSK,"Wankhede Stadium, Mumbai",MI,CSK
+336020,2008,DC v SRH,"Arun Jaitley Stadium, Delhi",DC,SRH
+336021,2008,MI v KKR,"Wankhede Stadium, Mumbai",MI,KKR
+336023,2008,RR v RCB,"Sawai Mansingh Stadium, Jaipur",RR,RCB
+336022,2008,DC v PBKS,"Arun Jaitley Stadium, Delhi",DC,PBKS
+336025,2008,KKR v CSK,"Eden Gardens, Kolkata",KKR,CSK
+336024,2008,DC v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,MI
+336026,2008,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC
+336027,2008,KKR v RR,"Eden Gardens, Kolkata",KKR,RR
+336028,2008,MI v PBKS,"Wankhede Stadium, Mumbai",MI,PBKS
+336029,2008,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RCB
+336031,2008,PBKS v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,SRH
+336033,2008,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK,RR
+336032,2008,DC v MI,"Arun Jaitley Stadium, Delhi",DC,MI
+336002,2008,DC v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,RCB
+336035,2008,KKR v PBKS,"Eden Gardens, Kolkata",KKR,PBKS
+336036,2008,RR v MI,"Sawai Mansingh Stadium, Jaipur",RR,MI
+336037,2008,DC v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH,CSK
+336012,2008,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI
+336019,2008,PBKS v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",PBKS,RR
+336038,2008,DC v RR,"Wankhede Stadium, Mumbai",DC,RR
+336039,2008,CSK v PBKS,"Wankhede Stadium, Mumbai",CSK,PBKS
+336040,2008,CSK v RR,"Dr DY Patil Sports Academy, Mumbai",CSK,RR

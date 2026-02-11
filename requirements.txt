@@ -1,0 +1,18 @@
+# requirements.txt
+
+streamlit>=1.38.0,<1.40.0  
+pandas>=2.2.2
+numpy>=1.26.4
+plotly>=5.22.0
+
+openpyxl>=3.1.5
+reportlab>=4.2.2
+
+torch>=2.4.0
+torchvision>=0.19.0
+torchaudio>=2.4.0
+
+pillow>=10.4.0
+python-dateutil>=2.9.0
+pytz>=2024.2
+
